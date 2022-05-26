@@ -1,0 +1,28 @@
+[{
+    "id":0,
+    "salary":100000,
+    "userName":"c3",
+    "pass":"12345678"
+},
+{
+    "id":1,
+    "salary":5000,
+    "userName":"c1",
+    "pass":"12345678"
+},{
+    "id":2,
+    "salary":1000,
+    "userName":"c2",
+    "pass":"12345678"
+},{
+    "id":3,
+    "salary":10000,
+    "userName":"c0",
+    "pass":"12345678"
+},{
+    "id":4,
+    "salary":30000,
+    "userName":"c4",
+    "pass":"12345678"
+}
+]

@@ -1,0 +1,38 @@
+[{
+    "id":0,
+    "idJob":0,
+    "idEmp":0,
+    "jobDescription":"Front end developer",
+    "salary":10000
+    
+},
+{
+    "id":1,
+    "idJob":1,
+    "idEmp":0,
+    "jobDescription":"Front end developer",
+    "salary":60000
+   
+},
+{
+    "id":2,
+    "idJob":2,
+    "idEmp":0,
+    "jobDescription":"Front end developer",
+    "salary":35000
+},
+{
+    "id":3,
+    "idJob":3,
+    "idEmp":1,
+    "jobDescription":"back end developer",
+    "salary":150000
+},
+{
+    "id":4,
+    "idJob":4,
+    "idEmp":1,
+    "jobDescription":"back end developer",
+    "salary":1000
+}
+]
